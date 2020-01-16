@@ -3,9 +3,8 @@
 ## Table of Contents
 - [Overview](#Overview)
 - [Dependencies](#Dependencies)
-- [Data](#Code)
-- [Running the code](#Running-the-code)
 - [Data](#Data)
+- [Sample Output](#Sample-Output)
 
 ## Overview
 In following project, Recurrent Neural Network (RNN) will be utilized to create TV scripts. Seinfeld scripts will be used as dataset. Recurrent Neural Network is built with Pytorch in this project. RNN is trained to learn patterns in training data and generate fake TV script.
